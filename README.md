@@ -8,7 +8,8 @@ As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py
 
   Input: 
   
-  ![alt text](http://url/to/img.png)
+  ![alt text](https://github.com/PercyPanJX/CISC4893dMapping/blob/master/4l.png)
+  
 3dMapping2.py:
   Input a pair of stereo images, output a .ply file, this file can be showed by using MatLab.
 
