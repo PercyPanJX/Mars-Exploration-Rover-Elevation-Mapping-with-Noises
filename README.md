@@ -36,7 +36,8 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   <img src="4r.png" width="150"/>
   </p>
   
-  Output:
+  Output:  
+  <br/>
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 <br/><br/>
