@@ -9,8 +9,8 @@ As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py
   Input: 
   
   <p align="center">
-  <img src="4l.png" width="350"/>
-  <img src="4l.png" width="350"/>
+  <img src="4l.png" width="150"/>
+  <img src="4r.png" width="150"/>
   </p>
   
 3dMapping2.py:
