@@ -1,6 +1,10 @@
 # CISC4893dMapping
 
-As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py
+As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py. 
+
+Both modules are following "Stereo Vision and 3D Reconstruction"(https://www.packtpub.com/mapt/book/application_development/9781785283932/11)
+
+
 
 <br/>
 Description----------------------------------------
@@ -33,14 +37,22 @@ Description----------------------------------------
 
 
 <br/><br/>
+
 Instructions:--------------------------------------
+
 <br/>
+
 Dependences: OpenCV, MatLab 
+
 <br/><br/>
+
 For 3dMapping.py:
-3dMapping.py 4l.png 4r.png 
+   3dMapping.py 4l.png 4r.png sift|surf
 
+<br/>
 
+For 3dMapping2.py:
+   3dMapping2.py 4l.png 4r.png output
 
 
 
