@@ -2,7 +2,7 @@
 
 As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py. 
 
-Both modules are following "Stereo Vision and 3D Reconstruction"(https://www.packtpub.com/mapt/book/application_development/9781785283932/11)
+Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.packtpub.com/mapt/book/application_development/9781785283932/11)
 
 
 
