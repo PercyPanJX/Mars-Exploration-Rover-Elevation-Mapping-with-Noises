@@ -39,9 +39,7 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   Output:  
   <br/>
   
-  <p align="center">
-<![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)>
-  </p>
+  <p align="center"><![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)></p>
     
     
 <br/><br/>
