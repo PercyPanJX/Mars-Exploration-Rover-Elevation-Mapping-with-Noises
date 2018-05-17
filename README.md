@@ -7,7 +7,7 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
 
 
 <br/>
-Description----------------------------------------
+**Description----------------------------------------**
 <br/>
 3dMapping,py:
   Input a pair of stereo images, output the similarities between two stereo images.
@@ -41,7 +41,7 @@ Description----------------------------------------
 
 <br/><br/>
 
-Instructions:--------------------------------------
+**Instructions:--------------------------------------**
 
 <br/>
 
