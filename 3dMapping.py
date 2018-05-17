@@ -31,10 +31,10 @@ def draw_lines(img_left, img_right, lines, pts_left, pts_right):
 
 def get_descriptors(gray_image, feature_type):
     if feature_type == 'surf':
-        feature_extractor = cv2.SURF()
+        feature_extractor = cv2.xfeatures2d.SURF_create()
 
     elif feature_type == 'sift':
-        feature_extractor = cv2.SIFT()
+        feature_extractor = cv2.xfeatures2d.SIFT_create()
 
     else:
         raise TypeError("Invalid feature type; should be either 'surf' or 'sift'")

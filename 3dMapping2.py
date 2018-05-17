@@ -53,22 +53,22 @@ if __name__ == '__main__':
     min_disp = 16
     max_disp = min_disp * 9
     num_disp = max_disp - min_disp   # Needs to be divisible by 16
-    stereo = cv2.StereoSGBM(minDisparity = min_disp,
+    stereo = cv2.StereoSGBM_create(minDisparity = min_disp,
         numDisparities = num_disp,
-        SADWindowSize = win_size,
+        blockSize = win_size,
         uniquenessRatio = 10,
         speckleWindowSize = 100,
         speckleRange = 32,
         disp12MaxDiff = 1,
         P1 = 8*3*win_size**2,
         P2 = 32*3*win_size**2,
-        fullDP = True
+        #fullDP = True
     )
 
-    print "\nComputing the disparity map ..."
+    print ("\nComputing the disparity map ...")
     disparity_map = stereo.compute(image_left, image_right).astype(np.float32) / 16.0
 
-    print "\nGenerating the 3D map ..."
+    print ("\nGenerating the 3D map ...")
     h, w = image_left.shape[:2]
     focal_length = 0.8*w
 
@@ -84,5 +84,5 @@ if __name__ == '__main__':
     output_points = points_3D[mask_map]
     output_colors = colors[mask_map]
 
-    print "\nCreating the output file ...\n"
+    print ("\nCreating the output file ...\n")
     create_output(output_points, output_colors, output_file)
