@@ -49,12 +49,12 @@ Dependences: OpenCV, MatLab
 
 <br/><br/>
 
-For 3dMapping.py:
+For 3dMapping.py:<br/>
    3dMapping.py 4l.png 4r.png sift|surf
 
-<br/>
+<br/><br/>
 
-For 3dMapping2.py:
+For 3dMapping2.py:<br/>
    3dMapping2.py 4l.png 4r.png output
 
 
