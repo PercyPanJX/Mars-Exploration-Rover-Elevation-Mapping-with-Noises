@@ -73,7 +73,7 @@ Dependences: Python3-OpenCV3, MatLab
 <br/><br/>
 
   <p align="center">
-  <img src="Poster.PNG" width="800"/>
+  <img src="Poster.PNG" width="1000"/>
   </p>
 
 
