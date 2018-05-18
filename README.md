@@ -62,13 +62,13 @@ Dependences: Python3-OpenCV3, MatLab
 
 <br/><br/>
    
-   3dMapping.py:
+   <br/>3dMapping.py:<br/>
         python3 left_right.py --img-left 4l.png --img-right 4r.png --feature-type surf
    
-   3dMapping2.py:
+  <br/> 3dMapping2.py:<br/>
         python3 3dmap.py --image-left 4l.png --image-right 4r.png --output-file OUTPUT_FILE
    
-   Using matlab:
+  <br/> Using matlab:<br/>
         runply.m
         
 <br/><br/>
