@@ -18,16 +18,16 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   
   <p align="center">
   <img src="/images/4l.png" width="150"/>
-  <img src="4r.png" width="150"/>
+  <img src="/images/4r.png" width="150"/>
   </p>
   
   Output:
   <p align="center">
-  SURF FUNCTION: <img src="point_left.png" width="150"/>
-  <img src="points_right.png" width="150"/>
+  SURF FUNCTION: <img src="/images/point_left.png" width="150"/>
+  <img src="/images/points_right.png" width="150"/>
    <br/>
-   SIFT FUNCTION: <img src="Epi_left.png" width="150"/>
-  <img src="Epi_right.png" width="150"/>
+   SIFT FUNCTION: <img src="/images/Epi_left.png" width="150"/>
+  <img src="/images/Epi_right.png" width="150"/>
   </p>
   
   
@@ -37,8 +37,8 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
 
   Input:
   <p align="center">
-  <img src="4l.png" width="150"/>
-  <img src="4r.png" width="150"/>
+  <img src="/images/4l.png" width="150"/>
+  <img src="/images/4r.png" width="150"/>
   </p>
 
   
@@ -46,9 +46,9 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   <br/>
   
   <p align="center">
-  <img src="OUTPUT2.png" width="150"/>
-  <img src="OUTPUT.png" width="150"/>
-   <img src="OUTPUT3.png" width="150"/>
+  <img src="/images/OUTPUT2.png" width="150"/>
+  <img src="/images/OUTPUT.png" width="150"/>
+   <img src="/images/OUTPUT3.png" width="150"/>
   </p>
     
     
@@ -73,7 +73,7 @@ Dependences: Python3-OpenCV3, MatLab
 <br/><br/>
 
   <p align="center">
-  <img src="Poster.PNG" width="1000"/>
+  <img src="/images/Poster.PNG" width="1000"/>
   </p>
 
 
