@@ -17,7 +17,7 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   Input: 
   
   <p align="center">
-  <img src="4l.png" width="150"/>
+  <img src="/images/4l.png" width="150"/>
   <img src="4r.png" width="150"/>
   </p>
   
