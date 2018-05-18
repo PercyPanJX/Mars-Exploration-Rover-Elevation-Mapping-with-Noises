@@ -34,8 +34,11 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   Input:
   
   <p align="center">
-  <img src="4l.png" width="150"/>
-  <img src="4r.png" width="150"/>
+  <img src="point_left.png" width="150"/>
+  <img src="points_right.png" width="150"/>
+   <br/>
+   <img src="Epi_left.png" width="150"/>
+  <img src="Epi_right.png" width="150"/>
   </p>
   
   Output:  
