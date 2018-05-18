@@ -58,17 +58,21 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
 
 <br/>
 
-Dependences: OpenCV, MatLab 
+Dependences: Python3-OpenCV3, MatLab 
 
 <br/><br/>
-
-For 3dMapping.py:<br/>
-   3dMapping.py 4l.png 4r.png sift|surf
-
+   
+   3dMapping.py:
+        python3 left_right.py --img-left 4l.png --img-right 4r.png --feature-type surf
+   
+   3dMapping2.py:
+        python3 3dmap.py --image-left 4l.png --image-right 4r.png --output-file OUTPUT_FILE
+   
+   Using matlab:
+        runply.m
+        
 <br/><br/>
 
-For 3dMapping2.py:<br/>
-   3dMapping2.py 4l.png 4r.png output
-   runply.m 
+
 
 
