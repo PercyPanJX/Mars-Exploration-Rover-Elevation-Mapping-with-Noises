@@ -23,17 +23,6 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   
   Output:
   <p align="center">
-  <img src="download.jpg" width="150"/>
-  </p>
-  
-  
-  <br/>
-3dMapping2.py:
-  Input a pair of stereo images, output a .ply file, this file can be showed by using MatLab.
-
-  Input:
-  
-  <p align="center">
   <img src="point_left.png" width="150"/>
   <img src="points_right.png" width="150"/>
    <br/>
@@ -41,10 +30,26 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   <img src="Epi_right.png" width="150"/>
   </p>
   
+  
+  <br/>
+3dMapping2.py:
+  Input a pair of stereo images, output a .ply file, this file can be showed by using MatLab with "runply.m".
+
+  Input:
+  <p align="center">
+  <img src="4l.png" width="150"/>
+  <img src="4r.png" width="150"/>
+  </p>
+
+  
   Output:  
   <br/>
   
- <p align="center"> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
+  <p align="center">
+  <img src="OUTPUT.png" width="150"/>
+  <img src="OUTPUT2.png" width="150"/>
+   <img src="OUTPUT3.png" width="150"/>
+  </p>
     
     
 <br/><br/>
@@ -64,6 +69,6 @@ For 3dMapping.py:<br/>
 
 For 3dMapping2.py:<br/>
    3dMapping2.py 4l.png 4r.png output
-
+   runply.m 
 
 
