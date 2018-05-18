@@ -46,8 +46,8 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   <br/>
   
   <p align="center">
-  <img src="OUTPUT.png" width="150"/>
   <img src="OUTPUT2.png" width="150"/>
+  <img src="OUTPUT.png" width="150"/>
    <img src="OUTPUT3.png" width="150"/>
   </p>
     
