@@ -23,10 +23,10 @@ Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.p
   
   Output:
   <p align="center">
-  <img src="point_left.png" width="150"/>
+  SURF FUNCTION: <img src="point_left.png" width="150"/>
   <img src="points_right.png" width="150"/>
    <br/>
-   <img src="Epi_left.png" width="150"/>
+   SIFT FUNCTION: <img src="Epi_left.png" width="150"/>
   <img src="Epi_right.png" width="150"/>
   </p>
   
