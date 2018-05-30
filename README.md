@@ -1,3 +1,24 @@
+  <p align="center">
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_01.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_02.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_03.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_04.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_05.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_06.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_07.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_08.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_09.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_10.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_11.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_12.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_13.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_14.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_15.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_16.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_17.jpg" width="1000"/>
+  <img src="/covers/Mars Exploration Rover Elevation Mapping with Noises_Page_18.jpg" width="1000"/>
+  </p>
+
 # Mars Exploration Rover Elevation Mapping with Noises
 <br/><br/>
 
@@ -6,58 +27,6 @@
   </p>
   <br/><br/>
   
-As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py. 
-
-Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.packtpub.com/mapt/book/application_development/9781785283932/11)
-
-
-
-<br/>
-
-**Description----------------------------------------**
-
-<br/>
-3dMapping,py:
-  Input a pair of stereo images, output the similarities between two stereo images.
-
-  Input: 
-  
-  <p align="center">
-  <img src="/images/4l.png" width="150"/>
-  <img src="/images/4r.png" width="150"/>
-  </p>
-  
-  Output:
-  <p align="center">
-  SURF FUNCTION: <img src="/images/point_left.png" width="150"/>
-  <img src="/images/points_right.png" width="150"/>
-   <br/>
-   SIFT FUNCTION: <img src="/images/Epi_left.png" width="150"/>
-  <img src="/images/Epi_right.png" width="150"/>
-  </p>
-  
-  
-  <br/>
-3dMapping2.py:
-  Input a pair of stereo images, output a .ply file, this file can be showed by using MatLab with "runply.m".
-
-  Input:
-  <p align="center">
-  <img src="/images/4l.png" width="150"/>
-  <img src="/images/4r.png" width="150"/>
-  </p>
-
-  
-  Output:  
-  <br/>
-  
-  <p align="center">
-  <img src="/images/OUTPUT2.png" width="150"/>
-  <img src="/images/OUTPUT.png" width="150"/>
-   <img src="/images/OUTPUT3.png" width="150"/>
-  </p>
-    
-    
 <br/><br/>
 
 **Instructions:--------------------------------------**
