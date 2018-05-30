@@ -1,5 +1,11 @@
-# CISC4893dMapping
+# Mars Exploration Rover Elevation Mapping with Noises
+<br/><br/>
 
+  <p align="center">
+  <img src="/images/Poster.PNG" width="1000"/>
+  </p>
+  <br/><br/>
+  
 As for mapping, we create two modules, 3dMapping.py, and 3dMapping2.py. 
 
 Both modules are following ["Stereo Vision and 3D Reconstruction"](https://www.packtpub.com/mapt/book/application_development/9781785283932/11)
@@ -70,10 +76,6 @@ Dependences: Python3-OpenCV3, MatLab
   <br/> 3.Using matlab:<br/>
         runply.m
         
-<br/><br/>
 
-  <p align="center">
-  <img src="/images/Poster.PNG" width="1000"/>
-  </p>
 
 
